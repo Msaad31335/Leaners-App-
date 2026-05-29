@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "387895461581",
+    "project_id": "flutter1-68afc",
+    "storage_bucket": "flutter1-68afc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387895461581:android:f1d49ffd015e2223c4cb84",
+        "android_client_info": {
+          "package_name": "com.learners.learners"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "387895461581-k79gqsp34b3v7trqh1uocep294bhbjnr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWI6vHpNt9FsW0Ye5KTrDV8o6vpeL4LG0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "387895461581-k79gqsp34b3v7trqh1uocep294bhbjnr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "387895461581-icdb0cs3nuf6er76uk1s7bmh5nt9gnh5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.learners.learners"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
